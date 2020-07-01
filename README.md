@@ -1,2 +1,2 @@
 # 42sh
-Shell Bash completed
+Shell Bash complete
